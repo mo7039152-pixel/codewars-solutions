@@ -9,3 +9,4 @@ My Codewars solutions
 | [Sentence Smash](https://www.codewars.com/kata/53dc23c68a0c93699800041d) | 7-kyu | python | [Solution](codewars/python/7-kyu/sentence-smash.py) | 10/12/2026 |
 | [Beginner Series #3 Sum of Numbers](https://www.codewars.com/kata/55f2b110f61eb01779000053) | 7-kyu | python | [Solution](codewars/python/7-kyu/beginner-series-3-sum-of-numbers.py) | 10/12/2026 |
 | [Convert a string to an array](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d) | 7-kyu | python | [Solution](codewars/python/7-kyu/convert-a-string-to-an-array.py) | 10/12/2026 |
+| [Number of People in the Bus](https://www.codewars.com/kata/5648b12ce68d9daa6b000099) | 7-kyu | python | [Solution](codewars/python/7-kyu/number-of-people-in-the-bus.py) | 10/12/2026 |
